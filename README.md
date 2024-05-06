@@ -22,6 +22,15 @@ This section is intended for the developer. It can be deleted later.
 Please make sure that you consider copyrights and trademarks when you use names or logos of a company and add a disclaimer to your README.
 You can check other adapters for examples or ask in the developer community. Using a name or logo of a company without permission may cause legal problems for you.
 
+### Codespaces
+
+Open a new Codespace and run the following three commands to initialize and start the web application:
+```
+npm install --global @iobroker/dev-server
+dev-server setup
+dev-server watch
+```
+
 ### Getting started
 
 You are almost done, only a few steps left:
